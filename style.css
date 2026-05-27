@@ -1,0 +1,9 @@
+body { background: #eb95e9; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 41px; display: flex; }
+.block-notify-0 { color: #33732; font-size: 20px; margin-bottom: 5px; }
+.block-cart-1 { color: #ec42f5; font-size: 16px; margin-bottom: 5px; }
+.block-validator-2 { color: #f3377d; font-size: 16px; margin-bottom: 5px; }
+.block-token-3 { color: #13ba52; font-size: 16px; margin-bottom: 5px; }
+.block-metrics-4 { color: #2b51d; font-size: 17px; margin-bottom: 5px; }
+.block-validator-5 { color: #2a798e; font-size: 16px; margin-bottom: 5px; }
+.block-helper-6 { color: #b0dbe6; font-size: 17px; margin-bottom: 5px; }
