@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producterocess",
+        "uuid": 25182775,
+        "checksum": "om7lbq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
